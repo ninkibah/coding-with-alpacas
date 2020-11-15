@@ -2,7 +2,7 @@
 
 This site contains pdfs and links to some of my talks.
 
-It will also contain a link t C++ tools and techniques for developing template code.
+It will also contain a link to C++ tools and techniques for developing template code.
 
 ### Meeting Cpp 2020 Talk
 
